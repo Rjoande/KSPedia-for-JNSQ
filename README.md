@@ -16,7 +16,8 @@ These pages appear directly inside the KSPedia, offering quick access during fli
 Tested on **KSP 1.12.x** with **JNSQ 0.10+**.
 
 ## License
-CC BY-NC-SA 4.0  
+CC0 1.0 Universal
+
 Credits to:  
 - jandcando (original Planet Wiki)  
 - OhioBob (original antenna distances)  
